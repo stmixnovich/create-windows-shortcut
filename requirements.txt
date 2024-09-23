@@ -1,0 +1,6 @@
+pyinstaller
+os
+winshell
+win32com
+shutil
+sys
